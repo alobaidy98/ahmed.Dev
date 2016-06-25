@@ -54,9 +54,7 @@
     data = "data/moderation.json"
   },
   sudo_users = {
-    10012023,
-    219571187,
-    217145663
+    ,
   }
 }
 return _
