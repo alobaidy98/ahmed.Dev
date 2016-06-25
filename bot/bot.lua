@@ -249,8 +249,7 @@ function create_config( )
       "sticker",
       "supergroup",
       "super-info",
-      "taks"
-      "textphoto",
+      "taks",
       "upredis",
       "voice",
       "welcome",
